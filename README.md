@@ -1,4 +1,4 @@
 Welcome to the splitIt app.
-![](images/img1.png)
-![](images/img2.png)
-![](images/img3.png)
+![](images/img1.PNG)
+![](images/img2.PNG)
+![](images/img3.PNG)
