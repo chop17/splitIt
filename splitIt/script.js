@@ -120,7 +120,7 @@ onload = function () {
 
             new_edges.push({from: from+1, to: to+1, label: String(Math.abs(amt))});
             vals[to] -= amt;
-            vals[from] -= amt;
+            vals[from] -= amt; //coz we have made val +ve in heap
 
             if(mx[0] > mn[0]){
                 pos_heap.insert([vals[to],to]);
